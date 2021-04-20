@@ -1,4 +1,8 @@
 Pierwsza_linijka
 Druga linijka
 Trzecia linijka
+<<<<<<< HEAD
 Czwarta linijka (bugfix)
+=======
+Czwarta linijka (wsb)
+>>>>>>> wsb
