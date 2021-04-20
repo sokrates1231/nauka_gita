@@ -1,2 +1,3 @@
 Pierwsza_linijka
-asda
+Druga linijka
+Trzecia linijka
