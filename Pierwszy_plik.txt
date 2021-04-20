@@ -1,3 +1,4 @@
 Pierwsza_linijka
 Druga linijka
 Trzecia linijka
+Czwarta linijka (wsb)
